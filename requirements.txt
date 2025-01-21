@@ -43,7 +43,7 @@ nvidia-cudnn-cu12
 pandas
 plotly
 pyspark
-scikit-learn
+scikit-learn<1.7.0
 seaborn
 tensorflow[and-cuda]
-xgboost
+xgboost>=1.7.5
