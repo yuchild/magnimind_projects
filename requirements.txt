@@ -32,6 +32,7 @@ cupy-cuda12x
 dask-cuda
 xgboost[dask]
 hmmlearn
+imbalanced-learn
 ipykernel
 joblib
 jupyter
@@ -46,5 +47,6 @@ plotly
 pyspark
 scikit-learn<1.7.0
 seaborn
+shap
 tensorflow[and-cuda]
 xgboost>=1.7.5
