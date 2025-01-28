@@ -42,6 +42,7 @@ notebook
 numpy
 nvidia-cuda-nvrtc-cu12
 nvidia-cudnn-cu12
+optuna
 pandas
 plotly
 pyspark
@@ -49,4 +50,4 @@ scikit-learn<1.7.0
 seaborn
 shap
 tensorflow[and-cuda]
-xgboost>=1.7.5
+xgboost
