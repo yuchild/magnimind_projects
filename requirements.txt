@@ -42,6 +42,7 @@ notebook
 numpy
 nvidia-cuda-nvrtc-cu12
 nvidia-cudnn-cu12
+opencv-python
 optuna
 pandas
 plotly
