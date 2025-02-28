@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+magpenv/
+env/
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs and Cache
+*.log
+*.cache
+*.egg-info/
+
+# VSCode or IDE Config
+.vscode/
+.idea/
+
+# Data Files
+*.csv
+*.tsv
+*.xlsx
+*.db
+*.sqlite3
+*.h5
+*.parquet
+
+# Environment Config
+.env
