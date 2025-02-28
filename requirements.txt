@@ -47,8 +47,11 @@ optuna
 pandas
 plotly
 pyspark
+scikit-image
 scikit-learn<1.7.0
 seaborn
 shap
 tensorflow[and-cuda]
+# torch
+# torchvision
 xgboost
