@@ -55,3 +55,4 @@ tensorflow[and-cuda]
 # torch
 # torchvision
 xgboost
+pandas-profiling
