@@ -56,3 +56,5 @@ tensorflow[and-cuda]
 # torchvision
 xgboost
 pandas-profiling
+scikit-learn-intelex
+ydata-profiling
