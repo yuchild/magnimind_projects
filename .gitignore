@@ -32,6 +32,8 @@ env/
 *.parquet
 *.keras
 models/*.keras
+models/*.h5
+models/RandomForest_best.joblib
 
 # Environment Config
 .env
